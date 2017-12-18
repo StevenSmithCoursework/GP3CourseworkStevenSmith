@@ -1,0 +1,25 @@
+﻿Build started 18-Dec-17 9:17:25 PM.
+     1>Project "D:\Github\GP3CourseworkStevenSmith\StevenSmithGP3Coursework\StevenSmithGP3Coursework\StevenSmithGP3Coursework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cWNDManager.cpp
+         cWNDManager.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Github\GP3CourseworkStevenSmith\StevenSmithGP3Coursework\Debug\StevenSmithGP3Coursework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Github\GP3CourseworkStevenSmith\StevenSmithGP3Coursework\Debug\StevenSmithGP3Coursework.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Github\GP3CourseworkStevenSmith\StevenSmithGP3Coursework\Debug\StevenSmithGP3Coursework.lib" /MACHINE:X86 Debug\cInputMgr.obj
+         Debug\Constants.obj
+         Debug\cWNDManager.obj
+         Debug\Main.obj
+         Debug\windowOGL.obj
+         alut.lib
+         DevIL.lib
+         freeglut.lib
+         ftgl.lib
+         "glm-0.3.2Lib.lib"
+         ILU.lib
+         ILUT.lib
+         OpenAL32.lib
+         StevenSmithGP3Coursework.vcxproj -> D:\Github\GP3CourseworkStevenSmith\StevenSmithGP3Coursework\Debug\StevenSmithGP3Coursework.exe
+     1>Done Building Project "D:\Github\GP3CourseworkStevenSmith\StevenSmithGP3Coursework\StevenSmithGP3Coursework\StevenSmithGP3Coursework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.71
